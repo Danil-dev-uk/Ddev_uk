@@ -31,8 +31,8 @@
             </ul>
         </div>
     </div>
-    <p>la la la</p>
-    <p>ps ps ps</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium ex consectetur, provident? Reprehenderit, animi modi perspiciatis iusto expedita earum! Sit reprehenderit, mollitia. Rem, recusandae officia, adipisci aut incidunt iste eius.</p>
+
 
     
         
